@@ -1,1 +1,1 @@
-# Console_Library_System
+A console-based Java application to manage books, borrowing, returns, and fines with admin and user roles.
